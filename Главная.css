@@ -35,11 +35,6 @@
 }
 
 .u-section-1 .u-btn-1 {
-  --animation-custom_in-translate_x: 0px;
-  --animation-custom_in-translate_y: 0px;
-  --animation-custom_in-opacity: 0;
-  --animation-custom_in-rotate: 0deg;
-  --animation-custom_in-scale: 0.3;
   border-style: solid;
   font-weight: 700;
   text-transform: uppercase;
@@ -70,6 +65,14 @@
   }
 
   .u-section-1 .u-text-3 {
+    --animation-custom_in-translate_x: 0px;
+    --animation-custom_in-translate_y: 0px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 0deg;
+    --animation-custom_in-scale: 0.3;
+  }
+
+  .u-section-1 .u-btn-1 {
     --animation-custom_in-translate_x: 0px;
     --animation-custom_in-translate_y: 0px;
     --animation-custom_in-opacity: 0;
